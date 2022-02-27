@@ -1,4 +1,4 @@
 # dev-first-repo
-This is a test repo
-Hello world!
-dfhdh
+echo "This is a test repo
+Hello world!"
+
